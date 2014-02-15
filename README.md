@@ -1,6 +1,9 @@
 Satoshis
 ========
 
+
+**PLANNING TO REDO THIS PLUGIN TO WORK WITH DOGECOIN**
+
 Minecraft with real money!  
 
 Ah, economy plugins... Without them, we would have no in game currency! But what if this in game currency... was also out-of-game currency?  
